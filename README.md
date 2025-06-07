@@ -12,8 +12,13 @@ O objetivo deste trabalho foi desenvolver, em linguagem C# e utilizando o paradi
 
 2. Operações realizadas no codigo
 • I valor: Inserir um valor na  ́arvore.
+
 • R valor: Remover um valor da  ́arvore.
-• B valor: Buscar um valor na  ́arvore e imprimir se foi encontrado ou n ̃ao.
-• P: Imprimir a  ́arvore em pr ́e-ordem.
-• F: Imprimir os fatores de balanceamento de todos os n ́os.
+
+• B valor: Buscar um valor na  ́arvore e imprimir se foi encontrado ou nao.
+
+• P: Imprimir a  ́arvore em pre-ordem.
+
+• F: Imprimir os fatores de balanceamento de todos os n os.
+
 • H: Imprimir a altura da  ́arvore.
