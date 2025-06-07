@@ -1,7 +1,10 @@
 # Trabalho-AVL
 Disciplina: Análise e Projeto Orientado a Objetos I
+
 Alunos: Nathalia 113246 Lucca 113653 Gabriel 112958
+
 Professor: Maurício Acconcia Dias
+
 Curso: Engenharia da Computação
 
 1. Objetivo
