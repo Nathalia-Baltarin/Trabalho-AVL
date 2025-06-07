@@ -21,6 +21,6 @@ O objetivo deste trabalho foi desenvolver, em linguagem C# e utilizando o paradi
 
 • P: Imprimir a  ́arvore em pre-ordem.
 
-• F: Imprimir os fatores de balanceamento de todos os n os.
+• F: Imprimir os fatores de balanceamento de todos os nos.
 
 • H: Imprimir a altura da  ́arvore.
