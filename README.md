@@ -24,3 +24,8 @@ O objetivo deste trabalho foi desenvolver, em linguagem C# e utilizando o paradi
 • F: Imprimir os fatores de balanceamento de todos os nos.
 
 • H: Imprimir a altura da  ́arvore.
+
+
+3. Conclusao:
+
+   Todos os objetivos e operações foram concluidas com sucesso. 
